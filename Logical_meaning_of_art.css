@@ -1,0 +1,124 @@
+
+
+body{
+
+background-color: rgb(25, 24, 24);
+color: white;
+background-image: url("test1.png");
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+.B{
+
+border-radius: 16px;
+width: 115px;
+height: 30px;
+background-color: #ffe4c4;
+color: black ;
+margin: 0.1%;
+border: solid black 3.4px;
+font-weight: bold;
+z-index: 2;
+
+
+
+}
+
+.b{
+
+border-radius: 16px;
+width: 115px;
+height: 30px;
+background-color: black;
+color: black ;
+margin: 2%;
+border: solid black 5px;
+font-weight: bold;
+z-index: 1;
+}
+
+
+#I2{
+
+width: 13px;
+position: absolute;
+height: 13px;
+top: 15px;
+right: 15px;
+
+
+}
+
+
+
+#I1{
+
+width: 30px;
+position: absolute;
+top: 15px;
+height: 20px;
+right: 15px;
+
+
+}
+
+#B1{
+
+top: 20px;
+
+}
+
+
+#btn1{
+
+position: absolute;
+display: inline-flex;
+right: 10%;
+top: 100px;
+gap: 10px;
+
+}
+
+
+#btn2{
+
+position: absolute;
+display: inline-flex;
+right: 10.4%;
+top: 105px;
+gap: 10px;
+}
+
+#L1{
+
+position: absolute;
+left: 10px;
+top: 100px;
+overflow: hidden;
+z-index: 2;
+
+
+}
+
+
+#I3{
+
+z-index: 1;
+
+
+}
+
+#AD1{
+
+
+border: white solid 2px;
+overflow: hidden;
+font-size: 15px;
+width: fit-content
+
+
+
+}
